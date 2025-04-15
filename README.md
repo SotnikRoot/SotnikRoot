@@ -1,64 +1,47 @@
-## 👋 Привет! 
+<div align="center">
 
-Я — **Сотник Сергей**, бизнес-аналитик и full-stack разработчик
+# Сергей Сотник / Sergey Sotnik
+### 💼 Business Analyst & Full-Stack Developer | 📊 Data-Driven Solutions | 🤖 ML/NLP Specialist
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/your_username)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:your.email@example.com)
 
-### 🔥 Мои проекты:
-
-- 📊 **Дашборды для гос. порталов**  
-  
-- 🚦 **Аналитика ДТП и качества дорог**  
-  
-- 🤖 **NLP-ранжирование резюме**  
-  
-- 💼 **Личный кабинет для 2000+ сотрудников**  
+</div>
 
 ---
 
-### 💡 Обо мне:
+### 🚀 Key Projects / Ключевые проекты
 
-✨ **Data-Driven**  
-Верю в решения, основанные на данных, а не на «ну кажется»  
-
-✨ **Full-Stack**  
-Одинаково комфортно и в Python, и в JS, и в SQL  
-
-✨ **Люблю ML**  
-В особенности работу с текстами
-
----
----
-
-## 👋 Hi there!
-
-I’m **Sergey Sotnik**, a Business Analyst and Full-Stack Developer
+| **English** | **Русский** |
+|-------------|-------------|
+| **📊 Government Analytics Portal**<br>_Interactive dashboards for 15+ public services with automated reporting_ | **📊 Дашборды для гос. порталов**<br>_Интерактивная аналитика для 15+ госуслуг с автоматизированными отчётами_ |
+| **🚦 Road Safety Intelligence**<br>_ML-powered analysis of 10K+ traffic incidents with geospatial visualization_ | **🚦 Аналитика ДТП и дорог**<br>_Анализ 10К+ дорожных инцидентов с геовизуализацией_ |
+| **🤖 Smart Recruitment AI**<br>_NLP pipeline for CV processing (BERT + custom classification)_ | **🤖 NLP-ранжирование резюме**<br>_BERT-модель для классификации резюме_ |
+| **💻 Enterprise Employee Portal**<br>_Full-cycle development: from DB design to React frontend_ | **💼 Личный кабинет для 2000+ сотрудников**<br>_Полный цикл: от проектирования БД до React-интерфейса_ |
 
 ---
 
-### 🔥 My Projects:
+### 🛠 Tech Stack / Технологии
 
-- 📊 **Government Portal Dashboards**  
-  _Data visualization for public services_
+**Data & Backend**:
+`Python` `SQL` `Pandas` `FastAPI` `Django` `PostgreSQL` `MongoDB` `Airflow`
 
-- 🚦 **Road Accident & Infrastructure Analytics**  
-  _Data-driven assessment of traffic safety and road quality_
+**Frontend**:
+`JavaScript` `React` `TypeScript` `D3.js` `Chart.js` `HTML/CSS`
 
-- 🤖 **CV Ranking with NLP**  
-  _AI-powered resume screening and classification_
+**ML/AI**:
+`PyTorch` `HuggingFace` `spaCy` `NLTK` `scikit-learn` `OpenCV`
 
-- 💼 **Employee Portal (2000+ users)**  
-  _End-to-end digital workflow with e-signatures_
+**DevOps**:
+`Docker` `Kubernetes` `GitLab CI/CD` `AWS` `Prometheus+Grafana`
 
 ---
 
-### 💡 About Me:
+### 📌 Principles / Принципы работы
 
-✨ **Data-Driven**  
-"I trust numbers, not hunches" — metrics-backed decision making  
-
-✨ **Full-Stack**  
-Equal fluency in Python, JavaScript, and SQL ecosystems  
-
-✨ **ML Enthusiast**  
-Particularly passionate about NLP and text analytics
+```text
+🔍 Data-Driven Mindset → "Если нельзя измерить — нельзя улучшить"
+🔄 Full-Stack Ownership → От идеи до production-реализации
+🤖 AI Augmentation → Автоматизация рутинных решений
+📈 Business Alignment → Технологии как инструмент, а не цель
