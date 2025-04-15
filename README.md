@@ -3,9 +3,9 @@
 # Сергей Сотник / Sergey Sotnik
 ### 💼 Business Analyst & Full-Stack Developer | 📊 Data-Driven Solutions | 🤖 ML/NLP Specialist
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/your_username)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/i_mr_sotnik)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail)](mailto:crazzyserg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-habr-0A66C2?style=flat&logo=habr)](https://habr.com/ru/users/MrSotnik/)
 
 </div>
 
@@ -13,12 +13,13 @@
 
 ### 🚀 Key Projects / Ключевые проекты
 
-| **English** | **Русский** |
-|-------------|-------------|
-| **📊 Government Analytics Portal**<br>_Interactive dashboards for 15+ public services with automated reporting_ | **📊 Дашборды для гос. порталов**<br>_Интерактивная аналитика для 15+ госуслуг с автоматизированными отчётами_ |
-| **🚦 Road Safety Intelligence**<br>_ML-powered analysis of 10K+ traffic incidents with geospatial visualization_ | **🚦 Аналитика ДТП и дорог**<br>_Анализ 10К+ дорожных инцидентов с геовизуализацией_ |
-| **🤖 Smart Recruitment AI**<br>_NLP pipeline for CV processing (BERT + custom classification)_ | **🤖 NLP-ранжирование резюме**<br>_BERT-модель для классификации резюме_ |
-| **💻 Enterprise Employee Portal**<br>_Full-cycle development: from DB design to React frontend_ | **💼 Личный кабинет для 2000+ сотрудников**<br>_Полный цикл: от проектирования БД до React-интерфейса_ |
+- **Government Analytics Portal** / **Дашборды для гос. порталов**
+
+- **Road Safety Intelligence** / **Аналитика ДТП и дорог**
+
+- **Smart Recruitment AI** / **NLP-ранжирование резюме**
+
+- **Enterprise Employee Portal** / **Личный кабинет для 2000+ сотрудников**
 
 ---
 
